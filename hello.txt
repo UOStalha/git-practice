@@ -1,2 +1,5 @@
 Hello Git, this is my first tracked file!
 Now I am learning how changes are tracked.
+|
+|
+This line was added from GitHub.
