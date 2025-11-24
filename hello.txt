@@ -3,3 +3,6 @@ Now I am learning how changes are tracked.
 |
 |
 This line was added from GitHub.
+|
+|
+This line was added from GitHub Second time.
